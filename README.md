@@ -1,7 +1,7 @@
 # _ERAV2 Session 5 Homework_
 
 ## _HomeWork Description:_
-> _*This Homework contains Basic implementation of Neural Network on MNIST dataset. The main goal is to understand how a neural network works and how to model a neural network*_
+_*This Homework contains Basic implementation of Neural Network on MNIST dataset. The main goal is to understand how a neural network works and how to model a neural network*_
 
 ## _File Descriptions:_
 - `utils.py` -- It contains the utility functions. It has Function named `train()` which will calculate loss function and backpropagation method. and function `test()` will test_loss, correct prediction gives the accuracy. finally function `plot()` will calculate the `Training Loss`, `Training accuracy`, `Test Loss`, `Test Accuarcy` from functions `train()` and `test()`.
